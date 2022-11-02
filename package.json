@@ -13,5 +13,14 @@
     "dotpref": "^2.0.2",
     "minimist": "^1.2.7",
     "prompts": "^2.4.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnp/first-provide-some-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/finnp/first-provide-some-config/issues"
+  },
+  "homepage": "https://github.com/finnp/first-provide-some-config#readme"
 }
