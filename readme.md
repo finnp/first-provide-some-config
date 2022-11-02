@@ -4,6 +4,9 @@ Simple config that asks the user of a script the first time to provide some valu
 then never again. Useful for those single-purpose scripts where all you need to set is some
 minor config the first time.
 
+If the user runs the script again with the `--edit` flag, it will show questions again but prefill
+the saved values. The `--reset` flag will reset each value that is being accessed by the script.
+
 ## Usage
 
 ```js
